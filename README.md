@@ -1,0 +1,2 @@
+# dotnetReact
+- dotnet watch run
